@@ -27,16 +27,14 @@ Always learning – if you have feedback or ideas, I’d love to hear from you!
 
 ## 📊 Featured Projects
 
-### 🧠 Option Pricer App  
+### 🧠 Option Pricer App
 Real-time pricer for European options with Black-Scholes, Monte Carlo, Greeks, Delta/Gamma hedging, and implied volatility analysis.  
-[🔗 Streamlit Link](https://finance-option-pricer.streamlit.app/)
-[🔗 GitHub Repo](https://github.com/Raphael-EL-BAZE/Finance---Option-Pricer-App)
+🔗 [Streamlit Link](https://finance-option-pricer.streamlit.app) · [GitHub Repo](https://github.com/Raphael-EL-BAZE/Option_Pricer_App)
 
-### 📈 Portfolio Optimization App  
+### 📈 Portfolio Optimization App
 Machine Learning-driven tool using Skfolio for portfolio backtesting, optimization, and efficient frontier visualization.  
-[🔗 Streamlit Link](https://finance-portfolio-optimization.streamlit.app/)
-[🔗 GitHub Repo](https://github.com/Raphael-EL-BAZE/Portfolio_Optimization_App)
-![Portfolio Optimization Preview](Ptf_Optimization_Preview.png)
+🔗 [Streamlit Link](https://portfolio-optimization-app.streamlit.app) · [GitHub Repo](https://github.com/Raphael-EL-BAZE/Portfolio_Optimization_App)
+
 
 ---
 
