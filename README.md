@@ -33,7 +33,8 @@ Real-time pricer for European options with Black-Scholes, Monte Carlo, Greeks, D
 
 ### 📈 Portfolio Optimization App
 Machine Learning-driven tool using Skfolio for portfolio backtesting, optimization, and efficient frontier visualization.  
-🔗 [Streamlit Link](https://portfolio-optimization-app.streamlit.app) · [GitHub Repo](https://github.com/Raphael-EL-BAZE/Portfolio_Optimization_App) · ![App Preview](Portfolio_Optimization_App/Ptf_Optimization_Preview.png)
+🔗 [Streamlit Link](https://portfolio-optimization-app.streamlit.app) · [GitHub Repo](https://github.com/Raphael-EL-BAZE/Portfolio_Optimization_App) · [![App Preview](https://github.com/Raphael-EL-BAZE/Portfolio_Optimization_App/blob/main/Ptf_Optimization_Preview.png?raw=true)](https://portfolio-optimization-app.streamlit.app)
+
 
 ---
 
