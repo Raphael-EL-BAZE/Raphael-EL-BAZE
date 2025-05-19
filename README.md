@@ -31,7 +31,7 @@ Always learning – if you have feedback or ideas, I’d love to hear from you!
 Real-time pricer for European options with Black-Scholes, Monte Carlo, Greeks, Delta/Gamma hedging, and implied volatility analysis.  
 🔗 [Streamlit Link](https://finance-option-pricer.streamlit.app) · [GitHub Repo](https://github.com/Raphael-EL-BAZE/Option_Pricer_App) ·
 <a href="https://finance-option-pricer.streamlit.app">
-  <img src="https://github.com/Raphael-EL-BAZE/Option_Pricer_App/blob/main/Option_Pricer_Preview.png?raw=true" width="600"/>
+  <img src="https://github.com/Raphael-EL-BAZE/Option_Pricer_App/blob/main/Option_Pricer_Preview.png?raw=true" width="300"/>
 </a>
 
 
